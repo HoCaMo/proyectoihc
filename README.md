@@ -1,6 +1,9 @@
 # Simulación de Call Center de Atención al Cliente
  
-  
+**Integrantes:**  
+- José Antonio Barreanchea Merino  
+- Adrián Antonio Auqui Pérez  
+- Hósmer Gilberto Casma Morales
 ## Descripción General
 La aplicación recrea un escenario donde un cliente llama para:
 - **Crear un chip nuevo** 
